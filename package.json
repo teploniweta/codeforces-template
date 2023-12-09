@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ip-algorithmics/codeforces-io": "^1.1.2"
+  }
+}
